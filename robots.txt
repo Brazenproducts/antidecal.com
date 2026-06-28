@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antidecal.com/sitemap.xml
